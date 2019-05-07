@@ -14,5 +14,7 @@ Reuqires Python 3.
 To run:
 
 python3 hdecode.py inputfile.txt
+
 OR
+
 ipython3 hdecode.py inputfile.txt
