@@ -17,12 +17,15 @@ COMPILING
 --------------------------
 - to compile both myshell and myls:
   $ make all
+  
   OR
+  
   $ make
 
 - to compile individual programs:
   $ make myshell
   $ make myls
+
 
 - to clean directory:
   $ make clean
